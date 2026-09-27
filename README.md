@@ -1,1 +1,1 @@
-E.
+This is the repository for the "Retail Sales and Customer Prediction" Data analysis group.
